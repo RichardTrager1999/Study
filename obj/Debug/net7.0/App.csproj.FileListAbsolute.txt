@@ -1,0 +1,8 @@
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.csproj.AssemblyReference.cache
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.AssemblyInfoInputs.cache
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.AssemblyInfo.cs
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.csproj.CoreCompileInputs.cache
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.MvcApplicationPartsAssemblyInfo.cache
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.RazorAssemblyInfo.cache
+/Users/ebarmaka/Projects/App/App/obj/Debug/net7.0/App.RazorAssemblyInfo.cs
